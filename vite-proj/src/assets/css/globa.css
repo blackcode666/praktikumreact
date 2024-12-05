@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
